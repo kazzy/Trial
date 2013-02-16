@@ -14,6 +14,25 @@
 
 @implementation kzViewController
 
+@synthesize imageView = _imageView;
+
+- (IBAction)tapButton
+{
+    if(self.imageView.alpha < 0.5){
+        self.imageView.alpha = 0.0;
+    }
+    else{
+        self.imageView.alpha = 1.0;
+    }
+}
+
+- (IBAction)moveSlider:(id)sender
+{
+    UISlider *slider = sender;
+    self.imageView.alpha = slider.value;
+}
+
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];

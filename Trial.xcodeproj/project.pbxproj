@@ -18,6 +18,7 @@
 		A386E94116CF151E0037065B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A386E94016CF151E0037065B /* Default-568h@2x.png */; };
 		A386E94416CF151E0037065B /* kzViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A386E94316CF151E0037065B /* kzViewController.m */; };
 		A386E94716CF151F0037065B /* kzViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A386E94516CF151E0037065B /* kzViewController.xib */; };
+		A386E94E16CF16760037065B /* IMG_0308.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A386E94D16CF16760037065B /* IMG_0308.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		A386E94216CF151E0037065B /* kzViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = kzViewController.h; sourceTree = "<group>"; };
 		A386E94316CF151E0037065B /* kzViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kzViewController.m; sourceTree = "<group>"; };
 		A386E94616CF151F0037065B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/kzViewController.xib; sourceTree = "<group>"; };
+		A386E94D16CF16760037065B /* IMG_0308.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_0308.JPG; path = ../../../Desktop/IMG_0308.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				A386E94216CF151E0037065B /* kzViewController.h */,
 				A386E94316CF151E0037065B /* kzViewController.m */,
 				A386E94516CF151E0037065B /* kzViewController.xib */,
+				A386E94D16CF16760037065B /* IMG_0308.JPG */,
 				A386E93116CF151E0037065B /* Supporting Files */,
 			);
 			path = Trial;
@@ -164,6 +167,7 @@
 				A386E93F16CF151E0037065B /* Default@2x.png in Resources */,
 				A386E94116CF151E0037065B /* Default-568h@2x.png in Resources */,
 				A386E94716CF151F0037065B /* kzViewController.xib in Resources */,
+				A386E94E16CF16760037065B /* IMG_0308.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

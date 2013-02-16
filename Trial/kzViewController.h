@@ -10,4 +10,8 @@
 
 @interface kzViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UIImageView *imageView;
+- (IBAction) tapButton;
+- (IBAction) moveSlider:(id)sender;
+
 @end
